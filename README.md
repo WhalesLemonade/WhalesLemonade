@@ -46,7 +46,7 @@ Tools:      Git, VS Code, MySQLWorkbench
 
 ---
 
-## 🌐 Connect with Me | Conheça-me
+## 🌐 Connect with Me | Fale Comigo
 
 <p align="center">
   <a href="mailto:elielsilvinojr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
