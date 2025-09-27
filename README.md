@@ -32,7 +32,7 @@
   
   
 - 🧩 **Main Interests:** Open Source, Database, Development | **Interesses:** Open Source, Banco de Dados, Desenvolvimento
-- 🎨 **Hobbies:** Magic, Gaming, Music, Skateboarding | **Hobbies:** Mágica, Gaming, Música, Skate
+- 🎨 **Hobbies:** Magic, Gaming, Music, Skateboarding, Cinema | **Hobbies:** Mágica, Gaming, Música, Skate, Cinema
 
 ---
 
@@ -57,12 +57,14 @@ Tools:      Git, VS Code, MySQLWorkbench
 ---
 
 <details>
-  <summary><b>⚡ Fun Fact</b></summary>
+  <summary><b>⚡ Fun Facts</b></summary>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG9ma3M3bnRpYTBxdDA5Mm5wam54YTFya2RjamY0N240bXM3enMzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SFQFncR8CIH9aDxdXl/giphy.gif" width="200" align="right"/>
   <ul>
     <li>I do two graduations at the same time! | Eu faço duas graduações ao mesmo tempo</li>
     <li>I like whales and lemons | Eu gosto de baleias e limões🐳🍋</li>
     <li>Current goal: Getting better! | Objetivo atual: ser melhor!</li>
+    <li>My top 5 films: Coraline, Wolfwalkers, The Truman Show, Kill Bill Vol. 1 and Scream | Meus 5 filmes favoritos: Coraline, Wolfwalkers, O Show de Truman, Kill Bill Vol. 1 e Pânico</li>
+    <li>My top 3 bands: Nirvana, Sorry Ghost and The Beatles | Minhas 3 bandas favoritas: Nirvana, Sorry Ghost e The Beatles</li>
   </ul>
 </details>
 
