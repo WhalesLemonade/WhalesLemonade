@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=018281&height=180&section=header&text=WhalesLemonade%20🐳🍋&fontSize=38&fontAlignY=40&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=018281&height=180&section=header&text=SleepyLemonade%20🐳💤🍋&fontSize=38&fontAlignY=40&fontColor=ffffff" alt="header" />
 </p>
 
 <h2 align="center">
-  <samp>Hey there, I'm <b>WhalesLemonade</b>! 👋</samp> <br>
-  <samp>Olá, eu sou <b>WhalesLemonade</b>! 👋</samp>
+  <samp>Hey there, I'm <b>Lemonade.</b>! 👋</samp> <br>
+  <samp>Olá, eu sou <b>Lemonade.</b>! 👋</samp>
 </h2>
 
 <p align="center">
@@ -61,7 +61,7 @@ Tools:      Git, VS Code, MySQLWorkbench
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG9ma3M3bnRpYTBxdDA5Mm5wam54YTFya2RjamY0N240bXM3enMzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SFQFncR8CIH9aDxdXl/giphy.gif" width="200" align="right"/>
   <ul>
     <li>I do two graduations at the same time! | Eu faço duas graduações ao mesmo tempo</li>
-    <li>I like whales and lemons | Eu gosto de baleias e limões🐳🍋</li>
+    <li>I like whales, sleep and lemons | Eu gosto de baleias, dormir e limões🐳🍋</li>
     <li>Current goal: Getting better! | Objetivo atual: ser melhor!</li>
     <li>My top 5 films: Coraline, Wolfwalkers, The Truman Show, Kill Bill Vol. 1 and Scream | Meus 5 filmes favoritos: Coraline, Wolfwalkers, O Show de Truman, Kill Bill Vol. 1 e Pânico</li>
     <li>My top 3 bands: Nirvana, Sorry Ghost and The Beatles | Minhas 3 bandas favoritas: Nirvana, Sorry Ghost e The Beatles</li>
